@@ -1,0 +1,311 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="true"
+        jar="C:\Users\amaaquienteamanoquie\.android\build-cache\fa90a4c0a74d125cb25a4358fdf167f96f40a602\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="d7c42c80f6509b9ea4db28ca7859ffae08ec5741">
+        <dex dex="C:\Users\amaaquienteamanoquie\Desktop\OCR2\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_1cb9d54e90894563171ce40021947ea1390e4b2b\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\amaaquienteamanoquie\.android\build-cache\e97b3c68d70e2e5c6e5c03878e979c9850730302\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="70f23cb87278f89aa51e6f57e8f0fd5266572d95">
+        <dex dex="C:\Users\amaaquienteamanoquie\Desktop\OCR2\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_4a7bc3a2f8976ad29dcb965c0bbb11dbfcc69b5a\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\amaaquienteamanoquie\.gradle\caches\modules-2\files-2.1\com.github.bumptech.glide\glide\3.7.0\9e9eeaf9948ee4d6c3ab354e8dc14368f16994a4\glide-3.7.0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="9e9eeaf9948ee4d6c3ab354e8dc14368f16994a4">
+        <dex dex="C:\Users\amaaquienteamanoquie\Desktop\OCR2\app\build\intermediates\transforms\dex\debug\folders\1000\10\glide-3.7.0_75d38951542d2160ef8daa52dff4b8ff10a7677d\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\amaaquienteamanoquie\Desktop\OCR2\app\build\intermediates\incremental-runtime-classes\debug\instant-run.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="510aa6efc159983dfbffa676a0dae37568c0a46f">
+        <dex dex="C:\Users\amaaquienteamanoquie\Desktop\OCR2\app\build\intermediates\transforms\dex\debug\folders\1000\10000\instant-run_d50e0ef759b99c51189675d92c2bd084330b418e\classes.dex" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\amaaquienteamanoquie\.android\build-cache\c900df358ce7801d8e388817b5415bc9f3884c5b\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="fbb206f7a119f66ce171d95aae1225a5b209a8b7">
+        <dex dex="C:\Users\amaaquienteamanoquie\Desktop\OCR2\app\build\intermediates\pre-dexed\debug\classes_9665e729ee09f94753150f8716b4999ff44417f9.jar" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\amaaquienteamanoquie\.android\build-cache\002382cc2e2e921016057b94d6b272a0ef27449d\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="fbb206f7a119f66ce171d95aae1225a5b209a8b7">
+        <dex dex="C:\Users\amaaquienteamanoquie\Desktop\OCR2\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_afc7941e00dfd6563a7b7170e3d5ed7bbb12d2eb\classes.dex" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\amaaquienteamanoquie\.android\build-cache\e8578bc43edc34fce6e2c89b83983ee3be7872c0\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="d6a04527c17597019dad82777c5094a3d60d1c33">
+        <dex dex="C:\Users\amaaquienteamanoquie\Desktop\OCR2\app\build\intermediates\pre-dexed\debug\classes_aa371387d7b61b74196fc5c76d5010abddd3e7d4.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\amaaquienteamanoquie\.android\build-cache\8726a7f2a387ae10cc58c1e8c30d61ded777f8b1\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="93c1199fcb0a34b980e6fff8350daff62e696ec2">
+        <dex dex="C:\Users\amaaquienteamanoquie\Desktop\OCR2\app\build\intermediates\pre-dexed\debug\classes_77d9b055b95aa7ed1d02d0563584dafa3011ab58.jar" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\amaaquienteamanoquie\.android\build-cache\5ea5040c8e205afa3a91e0e87801998c597de6d6\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="a3e61044038fb54cddf6b8dc79f41d2b57f42caf">
+        <dex dex="C:\Users\amaaquienteamanoquie\Desktop\OCR2\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_0b267b5c40f2b3ccb8c07b7cce6ba8d18402ae05\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\amaaquienteamanoquie\.android\build-cache\a3740883d9cbbc9eaeddb75a9f5b0c04ff34b84b\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="5cc5ef8347a6bafa14556cbd35230aa9b3431bb0">
+        <dex dex="C:\Users\amaaquienteamanoquie\Desktop\OCR2\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_7d40e349334b562b61d038f4ff0fa64741bdf936\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\amaaquienteamanoquie\.android\build-cache\dfbff0faef783be5c94f4b848c7c52c9a22e4a9d\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="00b0b7233e1ec64acebfac40d4983d32d4712426">
+        <dex dex="C:\Users\amaaquienteamanoquie\Desktop\OCR2\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_b73a3cccdc5dc662ed23cbab274041f9ff2a862f\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\amaaquienteamanoquie\Desktop\OCR2\app\libs\httpclient-4.3.6.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="526a9f794eab830eae4f23a62c572878b3f491ab">
+        <dex dex="C:\Users\amaaquienteamanoquie\Desktop\OCR2\app\build\intermediates\transforms\dex\debug\folders\1000\2\httpclient-4.3.6_8d9d11729b29f14c0f02f06023bbc359396e07c3\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\amaaquienteamanoquie\Desktop\OCR2\app\libs\gradle-wrapper.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="d229475a85469cc6aab6348e8714bd1c1f833fb4">
+        <dex dex="C:\Users\amaaquienteamanoquie\Desktop\OCR2\app\build\intermediates\transforms\dex\debug\folders\1000\2\gradle-wrapper_e5f82dcd97ca449da98c63c88ee3e32a969a1bf1\classes.dex" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\amaaquienteamanoquie\.android\build-cache\1dd3fbaade44258ad6adc7f6bc9a6e169d675818\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="d7c42c80f6509b9ea4db28ca7859ffae08ec5741">
+        <dex dex="C:\Users\amaaquienteamanoquie\Desktop\OCR2\app\build\intermediates\pre-dexed\debug\classes_8ad67f55afcbe107e073877f0f1450eec4891a25.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\amaaquienteamanoquie\.android\build-cache\ae31c3199e57a1c35807b474c16ac3772e87e296\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="e8d63a4db615acc515153328c936a9cd0cb2b3ff">
+        <dex dex="C:\Users\amaaquienteamanoquie\Desktop\OCR2\app\build\intermediates\pre-dexed\debug\classes_272cdcb7dafae3c6fcc65a38a923432eb33d0009.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\amaaquienteamanoquie\.android\build-cache\d645eb4b0e50254bf496b27e09acc7229dac6dfd\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="93c10d68ab5ea070f15782ae6d3a28d1f1d8f45e">
+        <dex dex="C:\Users\amaaquienteamanoquie\Desktop\OCR2\app\build\intermediates\pre-dexed\debug\classes_b0b3e4698dab0f1fe0843df1a0ab527f3a2c2221.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\amaaquienteamanoquie\.android\build-cache\e7a1dc09efada914e11e195850e2b1d1abc22e17\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="4b746ef0fd46acb5aaf3d9ab9a4cec22c28d3211">
+        <dex dex="C:\Users\amaaquienteamanoquie\Desktop\OCR2\app\build\intermediates\pre-dexed\debug\classes_62bd14172de012cf149f5f0d84a195726fb3e15d.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\amaaquienteamanoquie\.android\build-cache\864194ff2a2fee7648858860d8246b9c2df181dc\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="70f23cb87278f89aa51e6f57e8f0fd5266572d95">
+        <dex dex="C:\Users\amaaquienteamanoquie\Desktop\OCR2\app\build\intermediates\pre-dexed\debug\classes_ac45257fd26e4267a8c2263f4a34b6b22961e942.jar" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\amaaquienteamanoquie\.android\build-cache\a20bdf2002fe4a5b52c803c4de7e2cdd3074a907\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="93c10d68ab5ea070f15782ae6d3a28d1f1d8f45e">
+        <dex dex="C:\Users\amaaquienteamanoquie\Desktop\OCR2\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_2f5ec529f452cf7251709754d4a07f3d7fbf1e48\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\amaaquienteamanoquie\.android\build-cache\83307b6702ba672c8790788a046963f3b7b8dd4d\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="f7375bfc27ba7fae46c9160697b2422e2b3473c6">
+        <dex dex="C:\Users\amaaquienteamanoquie\Desktop\OCR2\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_ca02f51f491aadc4e99f0025b41d173e4621c84c\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\amaaquienteamanoquie\.android\build-cache\4f4dcea611406ccf5d698a132d3b7cf64ee5d718\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="4b746ef0fd46acb5aaf3d9ab9a4cec22c28d3211">
+        <dex dex="C:\Users\amaaquienteamanoquie\Desktop\OCR2\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_e79b9de01d69da851465c6585b7bd2a5ffd3d26e\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\amaaquienteamanoquie\.android\build-cache\1066b14d1f655bd13aeb7c92fe9fd659c66d0e37\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="93c1199fcb0a34b980e6fff8350daff62e696ec2">
+        <dex dex="C:\Users\amaaquienteamanoquie\Desktop\OCR2\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_67ef8eb1dafd46fb89784938d6cf4c134d262a7a\classes.dex" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\amaaquienteamanoquie\.android\build-cache\1caa65ae4057ecaf0006dcaa3150862da2331bbe\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="425c7b17887e5c3f8cbdf67ba171bc246f29b42c">
+        <dex dex="C:\Users\amaaquienteamanoquie\Desktop\OCR2\app\build\intermediates\pre-dexed\debug\classes_f845a3d030782ce8a0d53e8d44784d625abaeb86.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\amaaquienteamanoquie\.android\build-cache\5733af3ceb2e2ddb4aa260267f373698a7cc7619\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="518768f3200963fbfec652f498da2c9d39245234">
+        <dex dex="C:\Users\amaaquienteamanoquie\Desktop\OCR2\app\build\intermediates\pre-dexed\debug\classes_571938e2848f9223b98c45db81300021b4ad5389.jar" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\amaaquienteamanoquie\Desktop\OCR2\app\libs\android-async-http-1.4.9.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="386a4339ffe52d5d63e80f9bed8d2b1d1a418249">
+        <dex dex="C:\Users\amaaquienteamanoquie\Desktop\OCR2\app\build\intermediates\transforms\dex\debug\folders\1000\2\android-async-http-1.4.9_ae1f04172d4708f912af6a5175772c4a2e3b48ee\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\amaaquienteamanoquie\.android\build-cache\8b0aa9947a3d4c08ea64ad77b9da2867c3727f50\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="d6a04527c17597019dad82777c5094a3d60d1c33">
+        <dex dex="C:\Users\amaaquienteamanoquie\Desktop\OCR2\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_0287c87a214242afb256fdc5f722534fc35c51a2\classes.dex" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\amaaquienteamanoquie\.android\build-cache\2151cbb9c30aca2d91e56dbc69adc641c839a39f\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="a3e61044038fb54cddf6b8dc79f41d2b57f42caf">
+        <dex dex="C:\Users\amaaquienteamanoquie\Desktop\OCR2\app\build\intermediates\pre-dexed\debug\classes_53bce0e78c82ae538cd1a836159b49b2ebaccc9e.jar" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\amaaquienteamanoquie\.android\build-cache\482f6731bd37df2964cde56b138620a3a24fc050\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="9ab787a20aae245b5b3651ae0b9c38459eb37715">
+        <dex dex="C:\Users\amaaquienteamanoquie\Desktop\OCR2\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_2a280c0cc53b2da20b5b837a04aa97e58c27b89f\classes.dex" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\amaaquienteamanoquie\.android\build-cache\5ffd71967cbca5e1af7459dc0c784a550dca03f3\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="9ab787a20aae245b5b3651ae0b9c38459eb37715">
+        <dex dex="C:\Users\amaaquienteamanoquie\Desktop\OCR2\app\build\intermediates\pre-dexed\debug\classes_37324860f3ef6d2d33047c9d1f3455673412824b.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\amaaquienteamanoquie\.android\build-cache\347db594a164f3ebdd2436186c874f4f1ae1b253\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="00b0b7233e1ec64acebfac40d4983d32d4712426">
+        <dex dex="C:\Users\amaaquienteamanoquie\Desktop\OCR2\app\build\intermediates\pre-dexed\debug\classes_bb0d91214b4c73da7a81e6d6903b05982afb8ce0.jar" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\amaaquienteamanoquie\.android\build-cache\343d95e692911041a4e47965445e08716999e6dd\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="425c7b17887e5c3f8cbdf67ba171bc246f29b42c">
+        <dex dex="C:\Users\amaaquienteamanoquie\Desktop\OCR2\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_ca284d8461360892a030fd9f8f6d7a4e1e3ae0a5\classes.dex" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\amaaquienteamanoquie\.android\build-cache\12c05df8f29b8ea20d4cfb0ce66ec9b59133ab0b\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="5cc5ef8347a6bafa14556cbd35230aa9b3431bb0">
+        <dex dex="C:\Users\amaaquienteamanoquie\Desktop\OCR2\app\build\intermediates\pre-dexed\debug\classes_388cbfd4ac19d73942d13036c4718b11cafbae08.jar" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\amaaquienteamanoquie\.android\build-cache\dcea65973017f8579ff711364ceae540a04c258c\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="518768f3200963fbfec652f498da2c9d39245234">
+        <dex dex="C:\Users\amaaquienteamanoquie\Desktop\OCR2\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_9f85846b7de521b08405e1cb09ee70c591005fc3\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\amaaquienteamanoquie\Desktop\OCR2\app\build\intermediates\incremental-classes\debug\instant-run-bootstrap.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="3ddb8fd74b455478ee9bc26a032e9062a9ea8911">
+        <dex dex="C:\Users\amaaquienteamanoquie\Desktop\OCR2\app\build\intermediates\transforms\dex\debug\folders\1000\10000\instant-run-bootstrap_6756590e8c8b27f9b2997f1fd43f7c8c87d134c2\classes.dex" />
+    </item>
+
+</items>

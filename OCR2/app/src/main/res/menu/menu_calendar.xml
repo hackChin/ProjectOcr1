@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto">
+
+
+    <item
+        android:id="@+id/menu_ver"
+        android:orderInCategory="100"
+        android:title="Ver Eventos"
+
+        app:showAsAction="never" />
+
+    <item
+        android:id="@+id/menu_agregar"
+        android:orderInCategory="100"
+        android:title="Agregar evento"
+        app:showAsAction="never" />
+
+    <item
+        android:id="@+id/menu_registros"
+        android:orderInCategory="100"
+        android:title="Borrar Registros"
+        app:showAsAction="never" />
+
+    <item
+        android:id="@+id/menu_salir"
+        android:orderInCategory="100"
+        android:title="Salir"
+        app:showAsAction="never" />
+</menu>
